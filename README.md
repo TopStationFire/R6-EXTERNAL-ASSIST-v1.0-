@@ -8,7 +8,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows_x64-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-<img src="https://i.ytimg.com/vi/example/maxresdefault.jpg" width="700">
+<img src="https://github.com/TopStationFire/R6-EXTERNAL-ASSIST-v1.0-/blob/main/r6sancientingame%20(2).jpg" width="700">
 
 ---
 
